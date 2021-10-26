@@ -5,7 +5,7 @@ Make a square with the fewest restrictions, where each side measures 80% of the 
 
 **Expected results**
 
-![alt text](https://github.com/[DanielaBeltranSaavedra]/[Module1-Working-with-constraints]/Images/square.png)
+![alt text](https://github.com/DanielaBeltranSaavedra/Module1-Working-with-constraints/blob/061fcb2d90b1c97de8bbf9ec2a8f6c777abfd07a/Images/square.png)
 <h2> Create a rectangular view</h2>
 <h2> Create a simple chat</h2>
 <h2> Create a simple calculator</h2>
